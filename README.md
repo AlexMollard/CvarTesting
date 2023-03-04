@@ -37,7 +37,7 @@ To compile and run the code in this repository, follow these steps:
 
 ## Contributing
 
-If you find any bugs or issues in the code, or if you would like to suggest improvements, feel free to open an issue or submit a pull request. Contributions are welcome and appreciated!
+If you find any bugs or issues in the code, or if you would like to suggest improvements, feel free to open an issue or even just pull the repo its all public. Contributions are welcome and appreciated!
 
 ## License
 
